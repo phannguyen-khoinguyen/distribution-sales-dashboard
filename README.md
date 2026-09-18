@@ -1,4 +1,4 @@
-# Distribution Sales Analysis Report 2022–2024
+# Distribution Sales Analysis Report 2022–2024 | Excel
 
 ## 1. Objective
 
